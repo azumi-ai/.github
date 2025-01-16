@@ -42,7 +42,7 @@ Professional toolkit for character creation and world-building:
 - Interactive testing environment
 - Performance analytics
 
-### Preview for Studio is in development!
+[Explore Azumi Studio →](https://github.com/azumi-ai/azumi/tree/main/studio)
 
 ## 🔮 Applications
 
